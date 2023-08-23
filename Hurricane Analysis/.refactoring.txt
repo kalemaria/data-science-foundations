@@ -1,2 +1,0 @@
-print('Hello Ria, this is also a trial of git and version control')
-
