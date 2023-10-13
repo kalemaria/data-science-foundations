@@ -1,6 +1,7 @@
 *_solution*
 *_Solution*
 *.odt
+*.odt#
 *.zip
 cheatsheets*
 .ipynb_checkpoints/*
